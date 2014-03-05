@@ -1,0 +1,67 @@
+h1{
+	padding-left:10px;
+	margin:auto;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:40px;
+}
+
+
+img{
+	width:500px;
+	margin:5px auto;
+	float:left;
+	/*margin-top:100px;*/
+	/*float:left;*/
+}
+
+button{
+	width: 100px;
+	height:40px;
+	text-align:center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:20px;
+	float:left;
+	margin-left:5px;
+	
+}
+
+input{
+	width:300px;
+	height: 30px;
+	font-size: 28px;
+	margin-right-right:10px;
+	font-family: 'Josefin Sans', sans-serif;
+	float:left;
+	margin-left:15px;
+}
+
+#content{
+	float:left;
+	padding-left:5px;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-top:100px;
+	display:inline-block;
+}
+
+#searchTerm{
+	width: 30%;
+	text-align: center;
+	margin: 5px auto;
+	float:left;
+	margin-left:50px;
+	padding-left:5px;
+}
+
+.wikiResults{
+	background-color: rgb(255, 100, 127);
+	text-align: center;
+	padding-left:5px;
+	margin: 5px auto;
+	width: 30%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.wikiResults:hover{
+	background-color: rgb(107, 255, 124);
+
+}
